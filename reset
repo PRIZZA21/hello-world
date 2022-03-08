@@ -1,0 +1,36 @@
+[33mcommit 3725f2e72bee93734c4002d2c670b50080d88050[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ac7d81a 5eb111f
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:51:02 2022 +0530
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 5eb111fe3d7f10ce5f70e539ce7d63eef4840066[m
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:40:22 2022 +0530
+
+    added new image
+
+[33mcommit ac7d81adfc893e8e8fc5ac4e1343d8f41b2ff21c[m
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:32:13 2022 +0530
+
+    updated index.html with emergency fix
+
+[33mcommit 3eb98463f9db3259f58aaa4dd4832acfeb14e5e0[m
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:25:44 2022 +0530
+
+    added image to hello world
+
+[33mcommit 1086d4656b1a017b9ebba2ff14e6bc5ab2d8462c[m
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:06:00 2022 +0530
+
+    updated index.html with a new file
+
+[33mcommit 6d8386822af8ccc1f9b241371721992490dbb929[m
+Author: Priyanshu Jayant <priyanshujayant3121@gmail.com>
+Date:   Tue Mar 8 18:04:07 2022 +0530
+
+    First release of Hello World
